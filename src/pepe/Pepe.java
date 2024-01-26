@@ -14,7 +14,10 @@ public class Pepe {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Pepe");
+        System.out.println("Hola");
+        System.out.println("No se");
+        System.out.println("Pepepepep");
     }
     
 }
